@@ -1,0 +1,1 @@
+{"_default": {"1": {"name": "Data 1", "user_name": "text"}, "2": {"name": "Data 2", "id": "text", "birth_date": "date", "telephone": "phone", "mail": "email"}, "3": {"name": "Data 3", "surname": "text", "given_name": "text"}, "4": {"name": "Data 4", "surname": "text", "given_name": "text", "patronymic": "text"}}}
